@@ -1,0 +1,228 @@
+Music	/music	
+27M
+185M
+Media	/media_common	
+5M
+16M
+Books	/book	
+3M
+15M
+People	/people	
+3M
+16M
+Film	/film	
+2M
+17M
+TV	/tv	
+2M
+18M
+Location	/location	
+1M
+18M
+Business	/business	
+1M
+3M
+Fictional Universes	/fictional_universe	
+885K
+1M
+Organization	/organization	
+804K
+4M
+Sports	/sports	
+408K
+3M
+Biology	/biology	
+334K
+4M
+Awards	/award	
+284K
+4M
+Education	/education	
+246K
+3M
+Government	/government	
+147K
+909K
+Soccer	/soccer	
+143K
+911K
+Architecture	/architecture	
+133K
+425K
+Medicine	/medicine	
+127K
+7M
+Video Games	/cvg	
+120K
+927K
+Time	/time	
+113K
+413K
+Projects	/projects	
+113K
+199K
+Physical Geography	/geography	
+81K
+393K
+Olympics	/olympics	
+75K
+473K
+Visual Art	/visual_art	
+70K
+338K
+Military	/military	
+67K
+360K
+Transportation	/transportation	
+62K
+204K
+Internet	/internet	
+52K
+193K
+Protected Places	/protected_sites	
+51K
+321K
+Influence	/influence	
+50K
+101K
+Broadcast	/broadcast	
+45K
+317K
+Periodicals	/periodicals	
+42K
+227K
+Theater	/theater	
+41K
+214K
+Food & Drink	/food	
+38K
+450K
+Royalty and Nobility	/royalty	
+34K
+143K
+Astronomy	/astronomy	
+33K
+485K
+Travel	/travel	
+31K
+80K
+Boats	/boats	
+29K
+96K
+Aviation	/aviation	
+27K
+177K
+American football	/american_football	
+27K
+561K
+Baseball	/baseball	
+24K
+3M
+Law	/law	
+21K
+56K
+Library	/library	
+20K
+106K
+Computers	/computer	
+19K
+109K
+Event	/event	
+19K
+48K
+Basketball	/basketball	
+19K
+557K
+Religion	/religion	
+19K
+64K
+Cricket	/cricket	
+18K
+91K
+Symbols	/symbols	
+17K
+72K
+Chemistry	/chemistry	
+16K
+83K
+Language	/language	
+14K
+62K
+Comics	/comic_books	
+12K
+36K
+Ice Hockey	/ice_hockey	
+10K
+27K
+Automotive	/automotive	
+9K
+59K
+Exhibitions	/exhibitions	
+8K
+49K
+Opera	/opera	
+6K
+32K
+Games	/games	
+6K
+15K
+Boxing	/boxing	
+5K
+17K
+Tennis	/tennis	
+5K
+37K
+Rail	/rail	
+4K
+6K
+Zoos and Aquariums	/zoos	
+3K
+17K
+Amusement Parks	/amusement_parks	
+3K
+22K
+Spaceflight	/spaceflight	
+3K
+13K
+Celebrities	/celebrities	
+2K
+12K
+Hobbies and Interests	/interests	
+2K
+7K
+Martial Arts	/martial_arts	
+2K
+4K
+Meteorology	/meteorology	
+2K
+12K
+Conferences and Conventions	/conferences	
+2K
+4K
+Digicams	/digicams	
+1K
+47K
+Fashion, Clothing and Textiles	/fashion	
+1K
+3K
+Engineering	/engineering	
+1K
+3K
+Radio	/radio	
+824
+2K
+Measurement Unit	/measurement_unit	
+731
+20M
+Skiing	/skiing	
+595
+2K
+Bicycles	/bicycles	
+325
+608
+Geology	/geology	
+324
+660
+Physics	/physics	
+55
+580
